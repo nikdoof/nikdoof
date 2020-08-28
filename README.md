@@ -4,7 +4,7 @@ I'm a Sysadmin, Developer, and Wood Worker from St. Helens, UK. I specialise in 
 
 You can also find me at the following locations:
 
-* 🕛 [Now](https://stream.tensixtyone.com/#Now)
+* 🕛 [Now](https://dimension.sh/¬nikdoof/now)
 * 🏠 [tensixtyone.com](https://tensixtyone.com)
 * 🏭 [dimension.sh/~nikdoof](https://dimension.sh/~nikdoof)
 * 🔑 [keybase.io/nikdoof](https://keybase.io/nikdoof)
