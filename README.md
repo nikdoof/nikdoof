@@ -6,9 +6,7 @@ You can also find me at the following locations:
 
 * 🕛 [Now](https://dimension.sh/~nikdoof/now)
 * 🏠 [tensixtyone.com](https://tensixtyone.com)
-* 🏭 [dimension.sh/~nikdoof](https://dimension.sh/~nikdoof)
 * 🔑 [keybase.io/nikdoof](https://keybase.io/nikdoof)
 * 🐘 [@nikdoof@mastodon.social](https://mastodon.social/@nikdoof)
-* 🐦 [@nikdoof](https://twitter.com/nikdoof)
 * 💬 [nikdoof@tilde.chat](https://tilde.chat)
 * 📲 [nikdoof@telegram](https://t.me/nikdoof)
