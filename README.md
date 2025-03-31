@@ -5,5 +5,5 @@ I'm a Sysadmin, Developer, and Wood Worker from St. Helens, UK. I specialise in 
 You can also find me at the following locations:
 
 * 🏠 [nikdoof.com](https://nikdoof.com)
-* 🐘 [@nikdoof@incognitus.net](https://mastodon.incognitus.net/@nikdoof)
+* 🐘 [@nikdoof@social.doofnet.uk](https://social.doofnet.uk/@nikdoof)
 * 📲 [nikdoof@telegram](https://t.me/nikdoof)
